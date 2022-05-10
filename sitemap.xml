@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://larissa-macedo.github.io/site-demo/</loc>
+         <loc>https://larissa-macedo.github.io/site-demo/exatas/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://larissa-macedo.github.io/site-demo/ble/</loc>
+         <loc>https://larissa-macedo.github.io/site-demo/humanas/</loc>
+         <lastmod>2022-05-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://larissa-macedo.github.io/site-demo/linguagem/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
